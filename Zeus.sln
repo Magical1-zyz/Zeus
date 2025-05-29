@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{956474FD-7316-4B12-A61E-0A763495A4FB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zeus", "Zeus\Zeus.vcxproj", "{7E1840BF-B7B7-4819-B949-CFF98437A949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E1840BF-B7B7-4819-B949-CFF98437A949}.Debug|x64.ActiveCfg = Debug|x64
+		{7E1840BF-B7B7-4819-B949-CFF98437A949}.Debug|x64.Build.0 = Debug|x64
+		{7E1840BF-B7B7-4819-B949-CFF98437A949}.Release|x64.ActiveCfg = Release|x64
+		{7E1840BF-B7B7-4819-B949-CFF98437A949}.Release|x64.Build.0 = Release|x64
+		{956474FD-7316-4B12-A61E-0A763495A4FB}.Debug|x64.ActiveCfg = Debug|x64
+		{956474FD-7316-4B12-A61E-0A763495A4FB}.Debug|x64.Build.0 = Debug|x64
+		{956474FD-7316-4B12-A61E-0A763495A4FB}.Release|x64.ActiveCfg = Release|x64
+		{956474FD-7316-4B12-A61E-0A763495A4FB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF777C8-ADED-43C1-91B9-1DC6563F9F84}
+	EndGlobalSection
+EndGlobal
