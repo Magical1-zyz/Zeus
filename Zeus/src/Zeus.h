@@ -2,8 +2,8 @@
 
 // For use by Zeus applications
 
-#include <stdio.h>
 #include "Zeus/Application.h"
+#include "Zeus/Log.h"
 
 // ---Entry Point-------------------
 #include "Zeus/EntryPoint.h"
